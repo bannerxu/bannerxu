@@ -1,6 +1,7 @@
 ![](https://image.xuguoliang.top/2022/03/02/hello-im-guoliangxu-pUZAtQ.svg)
 
 - 🔭 我常用的工具
+
 ​		![](https%3A%2F%2Fimg.shields.io%2Fbadge%2F-IntelliJ%20IDEA-3f4442%3Flogo%3DIntelliJ%20IDEA) ![Java](https://img.shields.io/badge/-DataGrip-3f4442?logo=DataGrip) ![](https://img.shields.io/badge/-Maven-3f4441?logo=Apache%20Maven) ![](https://img.shields.io/badge/-Git-black?logo=git) ![Shell](https://img.shields.io/badge/-Shell-blasck?logo=Shell)
 
 
