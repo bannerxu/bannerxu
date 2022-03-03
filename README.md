@@ -1,5 +1,4 @@
-[![github-profile](https://image.xuguoliang.top/2022/03/02/hello-im-guoliangxu-pUZAtQ.svg)](https://www.calligrapher.ai/)
-
+![](https://image.xuguoliang.top/2022/03/02/hello-im-guoliangxu-pUZAtQ.svg)
 
 - 🔭 我常用的工具
 
